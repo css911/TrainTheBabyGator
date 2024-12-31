@@ -33,6 +33,10 @@ TrainTheBabyGator is an interactive game developed using Unity, where players gu
 - **Objective**: Navigate through the environment, avoid obstacles, and collect items to help the alligator grow.
 - **Levels**: Progress through multiple levels, each with increasing difficulty and new challenges.
 
+## Demo
+
+Watch the demo of the game here: [TrainTheBabyGator Demo](https://www.youtube.com/watch?v=hF3jR67SVpA)
+
 ## Contributing
 
 Contributions are welcome! Please follow these steps:
