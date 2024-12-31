@@ -1,6 +1,8 @@
 
 # TrainTheBabyGator
 
+![Train the baby Gator](https://github.com/user-attachments/assets/b1b134ff-23d5-42fe-9209-70d7dbd437f4)
+
 TrainTheBabyGator is an interactive game developed using Unity, where players guide a baby alligator through various challenges to help it grow and thrive in its environment.
 
 ## Features
