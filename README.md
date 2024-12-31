@@ -31,9 +31,8 @@ TrainTheBabyGator is an interactive game developed using Unity, where players gu
 
 ## How to Play
 
-- **Movement**: Use the arrow keys or `WASD` to move the baby alligator.
-- **Objective**: Navigate through the environment, avoid obstacles, and collect items to help the alligator grow.
-- **Levels**: Progress through multiple levels, each with increasing difficulty and new challenges.
+- **Movement**: Use the Space Bar to make the baby alligator swim.
+- **Objective**: Navigate through the environment, avoid obstacles.
 
 ## Demo
 
